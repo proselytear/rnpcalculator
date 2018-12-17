@@ -7,7 +7,7 @@
 2. Maven 3+
 
 ## Run application
-1. git clone 
+1. git clone https://github.com/proselytear/rnpcalculator
 2. Open project or go to project directory using command line
 3. 
     Run class RnpCalculatorApplication
