@@ -4,12 +4,12 @@
 
 ### Description of application
 
-Application has 3 layers:
-    - <b>view</b> - console view for users that could be easily replaced by web page, REST, etc.
-    - <b>controller</b> - IO controller that handles data received from view layer (could be replaced with WEB Controller, Socket, REST controller, etc.)
-    - <b>service</b> - business logic for calculating result of input
+Application has 3 layers:<br/>
+    - <b>view</b> - console view for users that could be easily replaced by web page, REST, etc.<br/>
+    - <b>controller</b> - IO controller that handles data received from view layer (could be replaced with WEB Controller, Socket, REST controller, etc.)<br/>
+    - <b>service</b> - business logic for calculating result of input<br/>
 
-Added CalculatorIOException that should handle any error occurred via program work.
+Added CalculatorIOException that should handle any error occurred via program work.<br/>
 
 ## Environment
 1. JDK 8+
