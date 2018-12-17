@@ -9,7 +9,7 @@ Application has 3 layers:<br/>
     - <b>controller</b> - IO controller that handles data received from view layer (could be replaced with WEB Controller, Socket, REST controller, etc.)<br/>
     - <b>service</b> - business logic for calculating result of input<br/>
 
-Added CalculatorIOException that should handle any error occurred via program work.<br/>
+Added CalculatorIOException that should handle any error occurred during program work.<br/>
 
 ## Environment
 1. JDK 8+
