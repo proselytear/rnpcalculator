@@ -41,8 +41,7 @@ Example:
 
 >1<br>
 >2<br>
->3<br>
 >\+<br>
->6.0
+>3.0
 
 4. Enter 'q' and press ENTER for exit
